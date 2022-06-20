@@ -3,9 +3,6 @@
 82 -> 10
 9012 -> 12*/
 
-//Console.WriteLine("Введите число : ");
-//int number = Convert.ToInt32(Console.ReadLine());
-
 Console.Write("Введите число : ");
 int number = Convert.ToInt32(Console.ReadLine());
 int sum = 0;
