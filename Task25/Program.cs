@@ -13,4 +13,4 @@ for(int i = 0; i < numberB; i++)
 result *= numberA;
 }
 
-Console.WriteLine(result);
+Console.WriteLine($"{numberA}^{numberB} = {result}");
